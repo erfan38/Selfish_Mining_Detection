@@ -1,0 +1,21 @@
+Iteration,Mean Block Receive Time,Mean Block Propagation Time,Mean Block Size,Stale Blocks,Size of Longest Fork,Mined Blocks in Main Blockchain,Honest Mining Income,Attacker Income,Attacker's Hash Rate,Time per Block
+1,615.221,0.508179,500142,0,7,87,290,87,0.3,600
+Iteration,Mean Block Receive Time,Mean Block Propagation Time,Mean Block Size,Stale Blocks,Size of Longest Fork,Mined Blocks in Main Blockchain,Honest Mining Income,Attacker Income,Attacker's Hash Rate,Time per Block
+2,610.478,0.468138,502448,0,11,82,290,82,0.3,600
+Iteration,Mean Block Receive Time,Mean Block Propagation Time,Mean Block Size,Stale Blocks,Size of Longest Fork,Mined Blocks in Main Blockchain,Honest Mining Income,Attacker Income,Attacker's Hash Rate,Time per Block
+3,638.225,0.508406,516204,0,10,65,277,65,0.3,600
+Iteration,Mean Block Receive Time,Mean Block Propagation Time,Mean Block Size,Stale Blocks,Size of Longest Fork,Mined Blocks in Main Blockchain,Honest Mining Income,Attacker Income,Attacker's Hash Rate,Time per Block
+4,634.539,0.485129,507238,0,10,32,268,32,0.3,600
+Iteration,Mean Block Receive Time,Mean Block Propagation Time,Mean Block Size,Stale Blocks,Size of Longest Fork,Mined Blocks in Main Blockchain,Honest Mining Income,Attacker Income,Attacker's Hash Rate,Time per Block
+5,669.111,0.497051,503088,0,10,28,253,28,0.3,600
+Iteration,Mean Block Receive Time,Mean Block Propagation Time,Mean Block Size,Stale Blocks,Size of Longest Fork,Mined Blocks in Main Blockchain,Honest Mining Income,Attacker Income,Attacker's Hash Rate,Time per Block
+6,616.963,0.457225,507715,0,8,105,306,105,0.3,600
+Iteration,Mean Block Receive Time,Mean Block Propagation Time,Mean Block Size,Stale Blocks,Size of Longest Fork,Mined Blocks in Main Blockchain,Honest Mining Income,Attacker Income,Attacker's Hash Rate,Time per Block
+7,620.518,0.48136,499300,0,8,42,263,42,0.3,600
+Iteration,Mean Block Receive Time,Mean Block Propagation Time,Mean Block Size,Stale Blocks,Size of Longest Fork,Mined Blocks in Main Blockchain,Honest Mining Income,Attacker Income,Attacker's Hash Rate,Time per Block
+8,640.302,0.487701,516593,0,9,115,303,115,0.3,600
+Iteration,Mean Block Receive Time,Mean Block Propagation Time,Mean Block Size,Stale Blocks,Size of Longest Fork,Mined Blocks in Main Blockchain,Honest Mining Income,Attacker Income,Attacker's Hash Rate,Time per Block
+9,616.599,0.498583,531443,0,9,47,267,47,0.3,600
+Iteration,Mean Block Receive Time,Mean Block Propagation Time,Mean Block Size,Stale Blocks,Size of Longest Fork,Mined Blocks in Main Blockchain,Honest Mining Income,Attacker Income,Attacker's Hash Rate,Time per Block
+10,657.741,0.425611,506145,0,8,87,297,87,0.3,600
+Iteration,Mean Block Receive Time,Mean Block Propagation Time,Mean Block Size,Stale Blocks,Size of Longest Fork,Mined Blocks in Main Blockchain,Honest Mining Income,Attacker Income,Attacker's Hash Rate,Time per Block

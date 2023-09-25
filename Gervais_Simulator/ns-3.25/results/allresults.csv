@@ -1,0 +1,398 @@
+
+Node 15 statistics:
+Connections = 15
+Mean Block Receive Time = 647.202 or 10min and 47.2016s
+Mean Block Propagation Time = 0.476197s
+Mean Block Size = 511155 Bytes
+Total Blocks = 928
+Stale Blocks = 253 (27.2629%)
+The size of the longest fork was 7 blocks
+There were in total 506 blocks in forks
+There were 14 successful double-spending attacks.
+The miner 15 with hash rate = 30% generated 292 blocks (31.4995%) with average block generation time = 2044.38s or 34min and 4.37877s and average size 473645 Bytes
+Total Blocks = 928
+Mined Blocks in main blockchain = 98
+Honest Mining Income = 292
+Attacker Income = 98(-66.4384%)
+
+
+Node 0 statistics:
+Connections = 15
+Mean Block Receive Time = 818.45 or 13min and 38.45s
+Mean Block Propagation Time = 428.737s
+Mean Block Size = 523155 Bytes
+Total Blocks = 734
+Stale Blocks = 59 (8.03815%)
+The size of the longest fork was 6 blocks
+There were in total 118 blocks in forks
+The total received INV messages were 1101654 Bytes
+The total received GET_HEADERS messages were 398520 Bytes
+The total received HEADERS messages were 91679 Bytes
+The total received GET_DATA messages were 319800 Bytes
+The total received BLOCK messages were 294704811 Bytes
+The total sent INV messages were 1355380 Bytes
+The total sent GET_HEADERS messages were 78570 Bytes
+The total sent HEADERS messages were 430500 Bytes
+The total sent GET_DATA messages were 66074 Bytes
+The total sent BLOCK messages were 1332394245 Bytes
+The miner 0 with hash rate = 18.5% generated 164 blocks (22.3738%) with average block generation time = 3630.66s or 60min and 30.6596s and average size 541534 Bytes
+
+Node 1 statistics:
+Connections = 15
+Mean Block Receive Time = 818.45 or 13min and 38.45s
+Mean Block Propagation Time = 428.662s
+Mean Block Size = 523155 Bytes
+Total Blocks = 734
+Stale Blocks = 59 (8.03815%)
+The size of the longest fork was 6 blocks
+There were in total 118 blocks in forks
+The total received INV messages were 1175754 Bytes
+The total received GET_HEADERS messages were 306180 Bytes
+The total received HEADERS messages were 98329 Bytes
+The total received GET_DATA messages were 245700 Bytes
+The total received BLOCK messages were 315581209 Bytes
+The total sent INV messages were 1350440 Bytes
+The total sent GET_HEADERS messages were 84726 Bytes
+The total sent HEADERS messages were 330750 Bytes
+The total sent GET_DATA messages were 71014 Bytes
+The total sent BLOCK messages were 1019248275 Bytes
+The miner 1 with hash rate = 15.9% generated 126 blocks (17.1896%) with average block generation time = 4649.46s or 77min and 29.4643s and average size 539195 Bytes
+
+Node 2 statistics:
+Connections = 15
+Mean Block Receive Time = 818.449 or 13min and 38.4487s
+Mean Block Propagation Time = 429.27s
+Mean Block Size = 523155 Bytes
+Total Blocks = 734
+Stale Blocks = 59 (8.03815%)
+The size of the longest fork was 6 blocks
+There were in total 118 blocks in forks
+The total received INV messages were 1199154 Bytes
+The total received GET_HEADERS messages were 277020 Bytes
+The total received HEADERS messages were 100429 Bytes
+The total received GET_DATA messages were 222300 Bytes
+The total received BLOCK messages were 319076233 Bytes
+The total sent INV messages were 1348880 Bytes
+The total sent GET_HEADERS messages were 86670 Bytes
+The total sent HEADERS messages were 299250 Bytes
+The total sent GET_DATA messages were 72574 Bytes
+The total sent BLOCK messages were 966822915 Bytes
+The miner 2 with hash rate = 13.3% generated 114 blocks (15.5525%) with average block generation time = 5262.48s or 87min and 42.4818s and average size 565304 Bytes
+
+Node 3 statistics:
+Connections = 15
+Mean Block Receive Time = 818.45 or 13min and 38.45s
+Mean Block Propagation Time = 428.732s
+Mean Block Size = 523155 Bytes
+Total Blocks = 734
+Stale Blocks = 59 (8.03815%)
+The size of the longest fork was 6 blocks
+There were in total 118 blocks in forks
+The total received INV messages were 1265454 Bytes
+The total received GET_HEADERS messages were 194400 Bytes
+The total received HEADERS messages were 106379 Bytes
+The total received GET_DATA messages were 156000 Bytes
+The total received BLOCK messages were 345759583 Bytes
+The total sent INV messages were 1344460 Bytes
+The total sent GET_HEADERS messages were 92178 Bytes
+The total sent HEADERS messages were 210000 Bytes
+The total sent GET_DATA messages were 76994 Bytes
+The total sent BLOCK messages were 566572665 Bytes
+The miner 3 with hash rate = 6.6% generated 80 blocks (10.9141%) with average block generation time = 7468.75s or 124min and 28.7466s and average size 472054 Bytes
+
+Node 4 statistics:
+Connections = 15
+Mean Block Receive Time = 818.449 or 13min and 38.4489s
+Mean Block Propagation Time = 429.122s
+Mean Block Size = 523155 Bytes
+Total Blocks = 734
+Stale Blocks = 59 (8.03815%)
+The size of the longest fork was 6 blocks
+There were in total 118 blocks in forks
+The total received INV messages were 1314204 Bytes
+The total received GET_HEADERS messages were 133650 Bytes
+The total received HEADERS messages were 110754 Bytes
+The total received GET_DATA messages were 107250 Bytes
+The total received BLOCK messages were 354260042 Bytes
+The total sent INV messages were 1341210 Bytes
+The total sent GET_HEADERS messages were 96228 Bytes
+The total sent HEADERS messages were 144375 Bytes
+The total sent GET_DATA messages were 80244 Bytes
+The total sent BLOCK messages were 439065780 Bytes
+The miner 4 with hash rate = 5.4% generated 55 blocks (7.50341%) with average block generation time = 10900.3s or 181min and 40.3465s and average size 532111 Bytes
+
+Node 5 statistics:
+Connections = 15
+Mean Block Receive Time = 818.449 or 13min and 38.4492s
+Mean Block Propagation Time = 428.898s
+Mean Block Size = 523155 Bytes
+Total Blocks = 734
+Stale Blocks = 59 (8.03815%)
+The size of the longest fork was 6 blocks
+There were in total 118 blocks in forks
+The total received INV messages were 1376604 Bytes
+The total received GET_HEADERS messages were 55890 Bytes
+The total received HEADERS messages were 116354 Bytes
+The total received GET_DATA messages were 44850 Bytes
+The total received BLOCK messages were 371877777 Bytes
+The total sent INV messages were 1337050 Bytes
+The total sent GET_HEADERS messages were 101412 Bytes
+The total sent HEADERS messages were 60375 Bytes
+The total sent GET_DATA messages were 84404 Bytes
+The total sent BLOCK messages were 174799755 Bytes
+The miner 5 with hash rate = 2.9% generated 23 blocks (3.13779%) with average block generation time = 20963.1s or 349min and 23.0998s and average size 506576 Bytes
+
+Node 6 statistics:
+Connections = 15
+Mean Block Receive Time = 818.449 or 13min and 38.4492s
+Mean Block Propagation Time = 428.886s
+Mean Block Size = 523155 Bytes
+Total Blocks = 734
+Stale Blocks = 59 (8.03815%)
+The size of the longest fork was 6 blocks
+There were in total 118 blocks in forks
+The total received INV messages were 1386354 Bytes
+The total received GET_HEADERS messages were 43740 Bytes
+The total received HEADERS messages were 117229 Bytes
+The total received GET_DATA messages were 35100 Bytes
+The total received BLOCK messages were 375733282 Bytes
+The total sent INV messages were 1336400 Bytes
+The total sent GET_HEADERS messages were 102222 Bytes
+The total sent HEADERS messages were 47250 Bytes
+The total sent GET_DATA messages were 85054 Bytes
+The total sent BLOCK messages were 116967180 Bytes
+The miner 6 with hash rate = 1.6% generated 18 blocks (2.45566%) with average block generation time = 32198.4s or 536min and 38.3544s and average size 433122 Bytes
+
+Node 7 statistics:
+Connections = 15
+Mean Block Receive Time = 818.449 or 13min and 38.4489s
+Mean Block Propagation Time = 429.148s
+Mean Block Size = 523155 Bytes
+Total Blocks = 734
+Stale Blocks = 59 (8.03815%)
+The size of the longest fork was 6 blocks
+There were in total 118 blocks in forks
+The total received INV messages were 1398054 Bytes
+The total received GET_HEADERS messages were 29160 Bytes
+The total received HEADERS messages were 118279 Bytes
+The total received GET_DATA messages were 23400 Bytes
+The total received BLOCK messages were 376178773 Bytes
+The total sent INV messages were 1335620 Bytes
+The total sent GET_HEADERS messages were 103194 Bytes
+The total sent HEADERS messages were 31500 Bytes
+The total sent GET_DATA messages were 85834 Bytes
+The total sent BLOCK messages were 110284815 Bytes
+The miner 7 with hash rate = 1.2% generated 12 blocks (1.63711%) with average block generation time = 49087.5s or 818min and 7.45269s and average size 612603 Bytes
+
+Node 8 statistics:
+Connections = 15
+Mean Block Receive Time = 818.449 or 13min and 38.4489s
+Mean Block Propagation Time = 429.187s
+Mean Block Size = 523155 Bytes
+Total Blocks = 734
+Stale Blocks = 59 (8.03815%)
+The size of the longest fork was 6 blocks
+There were in total 118 blocks in forks
+The total received INV messages were 1398054 Bytes
+The total received GET_HEADERS messages were 29160 Bytes
+The total received HEADERS messages were 118279 Bytes
+The total received GET_DATA messages were 23400 Bytes
+The total received BLOCK messages were 376708538 Bytes
+The total sent INV messages were 1335620 Bytes
+The total sent GET_HEADERS messages were 103194 Bytes
+The total sent HEADERS messages were 31500 Bytes
+The total sent GET_DATA messages were 85834 Bytes
+The total sent BLOCK messages were 102338340 Bytes
+The miner 8 with hash rate = 1.2% generated 12 blocks (1.63711%) with average block generation time = 48559.6s or 809min and 19.5724s and average size 568456 Bytes
+
+Node 9 statistics:
+Connections = 15
+Mean Block Receive Time = 818.449 or 13min and 38.4489s
+Mean Block Propagation Time = 429.267s
+Mean Block Size = 523155 Bytes
+Total Blocks = 734
+Stale Blocks = 59 (8.03815%)
+The size of the longest fork was 6 blocks
+There were in total 118 blocks in forks
+The total received INV messages were 1390254 Bytes
+The total received GET_HEADERS messages were 38880 Bytes
+The total received HEADERS messages were 117579 Bytes
+The total received GET_DATA messages were 31200 Bytes
+The total received BLOCK messages were 375824989 Bytes
+The total sent INV messages were 1336140 Bytes
+The total sent GET_HEADERS messages were 102546 Bytes
+The total sent HEADERS messages were 42000 Bytes
+The total sent GET_DATA messages were 85314 Bytes
+The total sent BLOCK messages were 115591575 Bytes
+The miner 9 with hash rate = 1.2% generated 16 blocks (2.18281%) with average block generation time = 32256.6s or 537min and 36.6162s and average size -nan Bytes
+
+Node 10 statistics:
+Connections = 15
+Mean Block Receive Time = 818.449 or 13min and 38.4492s
+Mean Block Propagation Time = 428.97s
+Mean Block Size = 523155 Bytes
+Total Blocks = 734
+Stale Blocks = 59 (8.03815%)
+The size of the longest fork was 6 blocks
+There were in total 118 blocks in forks
+The total received INV messages were 1413654 Bytes
+The total received GET_HEADERS messages were 9720 Bytes
+The total received HEADERS messages were 119679 Bytes
+The total received GET_DATA messages were 7800 Bytes
+The total received BLOCK messages were 381524530 Bytes
+The total sent INV messages were 1334580 Bytes
+The total sent GET_HEADERS messages were 104490 Bytes
+The total sent HEADERS messages were 10500 Bytes
+The total sent GET_DATA messages were 86874 Bytes
+The total sent BLOCK messages were 30098460 Bytes
+The miner 10 with hash rate = 0.9% generated 4 blocks (0.545703%) with average block generation time = 124484s or 2074min and 44.1332s and average size 501551 Bytes
+
+Node 11 statistics:
+Connections = 15
+Mean Block Receive Time = 818.449 or 13min and 38.4489s
+Mean Block Propagation Time = 429.223s
+Mean Block Size = 523155 Bytes
+Total Blocks = 734
+Stale Blocks = 59 (8.03815%)
+The size of the longest fork was 6 blocks
+There were in total 118 blocks in forks
+The total received INV messages were 1413654 Bytes
+The total received GET_HEADERS messages were 9720 Bytes
+The total received HEADERS messages were 119679 Bytes
+The total received GET_DATA messages were 7800 Bytes
+The total received BLOCK messages were 382930924 Bytes
+The total sent INV messages were 1334580 Bytes
+The total sent GET_HEADERS messages were 104490 Bytes
+The total sent HEADERS messages were 10500 Bytes
+The total sent GET_DATA messages were 86874 Bytes
+The total sent BLOCK messages were 9002550 Bytes
+The miner 11 with hash rate = 0.5% generated 4 blocks (0.545703%) with average block generation time = 99985.3s or 1666min and 25.3066s and average size 149952 Bytes
+
+Node 12 statistics:
+Connections = 15
+Mean Block Receive Time = 818.449 or 13min and 38.4489s
+Mean Block Propagation Time = 429.406s
+Mean Block Size = 523155 Bytes
+Total Blocks = 734
+Stale Blocks = 59 (8.03815%)
+The size of the longest fork was 6 blocks
+There were in total 118 blocks in forks
+The total received INV messages were 1417554 Bytes
+The total received GET_HEADERS messages were 4860 Bytes
+The total received HEADERS messages were 120029 Bytes
+The total received GET_DATA messages were 3900 Bytes
+The total received BLOCK messages were 383142210 Bytes
+The total sent INV messages were 1334320 Bytes
+The total sent GET_HEADERS messages were 104814 Bytes
+The total sent HEADERS messages were 5250 Bytes
+The total sent GET_DATA messages were 87134 Bytes
+The total sent BLOCK messages were 5833260 Bytes
+The miner 12 with hash rate = 0.5% generated 2 blocks (0.272851%) with average block generation time = 62031s or 1033min and 50.9704s and average size 194352 Bytes
+
+Node 13 statistics:
+Connections = 15
+Mean Block Receive Time = 818.449 or 13min and 38.4489s
+Mean Block Propagation Time = 429.11s
+Mean Block Size = 523155 Bytes
+Total Blocks = 734
+Stale Blocks = 59 (8.03815%)
+The size of the longest fork was 6 blocks
+There were in total 118 blocks in forks
+The total received INV messages were 1421454 Bytes
+The total received GET_HEADERS messages were 0 Bytes
+The total received HEADERS messages were 120379 Bytes
+The total received GET_DATA messages were 0 Bytes
+The total received BLOCK messages were 383531094 Bytes
+The total sent INV messages were 1334060 Bytes
+The total sent GET_HEADERS messages were 105138 Bytes
+The total sent HEADERS messages were 0 Bytes
+The total sent GET_DATA messages were 87394 Bytes
+The total sent BLOCK messages were 0 Bytes
+The miner 13 with hash rate = 0.2% generated 0 blocks (0%) with average block generation time = 0s or 0min and 0s and average size 1.58101e-322 Bytes
+
+Node 14 statistics:
+Connections = 15
+Mean Block Receive Time = 818.449 or 13min and 38.4489s
+Mean Block Propagation Time = 429.424s
+Mean Block Size = 523155 Bytes
+Total Blocks = 734
+Stale Blocks = 59 (8.03815%)
+The size of the longest fork was 6 blocks
+There were in total 118 blocks in forks
+The total received INV messages were 1411704 Bytes
+The total received GET_HEADERS messages were 12150 Bytes
+The total received HEADERS messages were 119504 Bytes
+The total received GET_DATA messages were 9750 Bytes
+The total received BLOCK messages were 380417690 Bytes
+The total sent INV messages were 1334710 Bytes
+The total sent GET_HEADERS messages were 104328 Bytes
+The total sent HEADERS messages were 13125 Bytes
+The total sent GET_DATA messages were 86744 Bytes
+The total sent BLOCK messages were 46701060 Bytes
+The miner 14 with hash rate = 0.2% generated 5 blocks (0.682128%) with average block generation time = 67072.9s or 1117min and 52.9329s and average size 622591 Bytes
+
+Node 15 statistics:
+Connections = 15
+Mean Block Receive Time = 647.202 or 10min and 47.2016s
+Mean Block Propagation Time = 0.476197s
+Mean Block Size = 511155 Bytes
+Total Blocks = 928
+Stale Blocks = 253 (27.2629%)
+The size of the longest fork was 7 blocks
+There were in total 506 blocks in forks
+The total received INV messages were 1238250 Bytes
+The total received GET_HEADERS messages were 34020 Bytes
+The total received HEADERS messages were 111125 Bytes
+The total received GET_DATA messages were 72660 Bytes
+The total received BLOCK messages were 335714725 Bytes
+The total sent INV messages were 1228360 Bytes
+The total sent GET_HEADERS messages were 102870 Bytes
+The total sent HEADERS messages were 138810 Bytes
+The total sent GET_DATA messages were 82550 Bytes
+The total sent BLOCK messages were 717245535 Bytes
+The miner 15 with hash rate = 30% generated 292 blocks (31.4995%) with average block generation time = 2044.38s or 34min and 4.37877s and average size 473645 Bytes
+
+Total Stats:
+Average Connections/node = 0
+Average Connections/miner = 15
+Mean Block Receive Time = 805.137 or 13min and 25.1372s
+Mean Block Propagation Time = 395.753s
+Median Block Propagation Time = 429.122s
+25% percentile of Block Propagation Time = 428.886s
+75% percentile of Block Propagation Time = 429.267s
+90% percentile of Block Propagation Time = 429.406s
+Miners Mean Block Propagation Time = 402.282s
+Miners Median Block Propagation Time = 428.737s
+Mean Block Size = 522222 Bytes
+Total Blocks = 74612
+Stale Blocks = 7112 (9.53198%)
+The size of the longest fork was 6.0625 blocks
+There were in total 142.25 blocks in forks
+The average received INV messages were 1.33261e+06 Bytes (0.184477%)
+The average received GET_HEADERS messages were 98566.9 Bytes (0.0136449%)
+The average received HEADERS messages were 112855 Bytes (0.0156229%)
+The average received GET_DATA messages were 81931.9 Bytes (0.011342%)
+The average received BLOCK messages were 3.5956e+08 Bytes (49.7749%)
+The average sent INV messages were 1.33261e+06 Bytes (0.184477%)
+The average sent GET_HEADERS messages were 98566.9 Bytes (0.0136449%)
+The average sent HEADERS messages were 112855 Bytes (0.0156229%)
+The average sent GET_DATA messages were 81931.9 Bytes (0.011342%)
+The average sent BLOCK messages were 3.5956e+08 Bytes (49.7749%)
+Total average traffic due to INV messages = 2.66523e+06 Bytes(0.368954%)
+Total average traffic due to GET_HEADERS messages = 197134 Bytes(0.0272898%)
+Total average traffic due to HEADERS messages = 225711 Bytes(0.0312457%)
+Total average traffic due to GET_DATA messages = 163864 Bytes(0.0226841%)
+Total average traffic due to BLOCK messages = 7.19121e+08 Bytes(99.5498%)
+Total average traffic/node = 7.22373e+08 Bytes (0.0161364 Kbps and 9.68185 KB/block)
+22680.6s per generated block
+
+The simulation ran for 1591.04s simulating 10000mins.
+It consisted of 16 nodes (16 miners) with minConnectionsPerNode = 1 and maxConnectionsPerNode = 1.
+
+The number of secure blocks required was 6.
+The averageBlockGenIntervalMinutes was 10min and averageBlockGenIntervalSeconds was 600.
+Each attack had a duration of 1000 generated blocks.
+The attacker's hash rate was 0.3.
+The number of iterations was 100.
+
+open the file:

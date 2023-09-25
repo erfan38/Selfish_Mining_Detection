@@ -1,0 +1,2 @@
+Iteration,Mean Block Receive Time,Mean Block Propagation Time,Mean Block Size,Stale Blocks,Size of Longest Fork,Mined Blocks in Main Blockchain,Honest Mining Income,Attacker Income,Attacker's Hash Rate,Time per Block
+1,623.82,0.494762,517903,0,8,58,289,58,0.3,600
